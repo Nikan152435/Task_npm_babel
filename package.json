@@ -1,0 +1,19 @@
+{
+  "name": "task_npm_babel",
+  "version": "1.0.0",
+  "description": "Домашнее задание к лекции «Рабочее окружени\"\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\"\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Dе\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikan152435/Task_npm_babel.git"
+  },
+  "author": "Nikan152435",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikan152435/Task_npm_babel/issues"
+  },
+  "homepage": "https://github.com/Nikan152435/Task_npm_babel#readme"
+}
