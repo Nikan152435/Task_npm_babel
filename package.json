@@ -1,10 +1,11 @@
 {
   "name": "task_npm_babel",
   "version": "1.0.0",
-  "description": "Домашнее задание к лекции «Рабочее окружени\"\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\"\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Dе\"",
+  "description": "Домашнее задание к лекции «Рабочее окружени",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/Nikan152435/Task_npm_babel/issues"
   },
-  "homepage": "https://github.com/Nikan152435/Task_npm_babel#readme"
+  "homepage": "https://github.com/Nikan152435/Task_npm_babel#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.24.7",
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7"
+  },
+  "dependencies": {
+    "core-js": "^3.37.1"
+  }
 }
